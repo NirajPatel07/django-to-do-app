@@ -1,6 +1,8 @@
 # Django Task Manager App
 This Django Task Manager App allows users to manage their tasks effectively. With this app, users can create, update, mark tasks as completed, and delete tasks, providing a seamless task management experience.
 
+![Capture](https://github.com/NirajPatel07/django-to-do-app/assets/66070865/2b2d41da-5fc9-4c24-a9ee-8ae1168f2922)
+
 # Features
 * Create Task: Users can add new tasks with a title, description, and due date.
 * Update Task: Users can edit the title, description, and due date of existing tasks.
